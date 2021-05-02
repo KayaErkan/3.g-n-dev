@@ -1,0 +1,10 @@
+package kodlamaÝoOdev;
+
+public class StudentManager {
+
+	public void courseOperation () {
+		System.out.println("Kurs Ýþlemleri Baaþarýlý Bir Þekilde Yapýldý");
+	}
+	
+	
+}
